@@ -75,7 +75,6 @@ Now that you are running Windows Server Containers, jump to the following guides
 [Quick Start: Windows Server Containers and PowerShell](./manage_powershell.md)
 
 -------------------
-
-[Back to Container Home](../containers_welcome.md)[Known Issues for Current Release](../about/work_in_progress.md)
+[Known Issues for Current Release](../about/work_in_progress.md)
 
 

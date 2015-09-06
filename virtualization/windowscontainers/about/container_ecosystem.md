@@ -39,6 +39,5 @@ We actively support the coming together of multiple developer ecosystems of inte
 Over the coming months, we will be providing more information about additional partners in this developing ecosystem.
 
 -------------------
-[Back to Container Home](../containers_welcome.md)
 
 

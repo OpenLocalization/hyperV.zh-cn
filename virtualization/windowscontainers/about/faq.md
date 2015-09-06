@@ -99,6 +99,4 @@ Microsoft is contributing to the Docker Project, enabling support for Windows Se
 For more information, see the [New Windows Server containers and Azure support for Docker](http://azure.microsoft.com/blog/2014/10/15/new-windows-server-containers-and-azure-support-for-docker/?WT.mc_id=Blog_ServerCloud_Announce_TTD) blog post.
 
 -------------------
-[Back to Container Home](../containers_welcome.md)
-
 

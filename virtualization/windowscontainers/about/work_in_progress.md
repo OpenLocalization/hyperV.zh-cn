@@ -357,6 +357,5 @@ We're planning on full cimsession support in the future.
 Feel free to voice feature requests in [the forums](https://social.msdn.microsoft.com/Forums/en-US/home?forum=windowscontainers).
 
 --------------------------
-[Back to Container Home](../containers_welcome.md)
 
 
