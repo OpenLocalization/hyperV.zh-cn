@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
+  "LastProcessedCommit": "efd88a7139a978d4ba486f2b382943aa22e3a035",
   "Items": {
     "08796bf856b1936c65df41076765d9f33d79e268": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -679,6 +679,13 @@
       "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
       "TargetFilePath": "virtualization\\windowscontainers\\reference\\ps_docker_comparison.md",
       "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
+    },
+    "f76c1b6680e290fb86f7ea3258d39aec224fc7fc": {
+      "SourceFileCommit": "efd88a7139a978d4ba486f2b382943aa22e3a035",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\windows_welcome.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
     }
   }
 }
