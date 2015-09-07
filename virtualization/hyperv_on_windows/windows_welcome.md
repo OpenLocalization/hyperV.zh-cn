@@ -1,7 +1,7 @@
 ms.ContentId: 09eacb3a-bcd2-4724-9c73-6d47ec06f385
 title: Hyper-V on Windows 10
 
-#Hyper-V on Windows 10 (New)
+#在Windows 10上运行Hyper-V
 
 Hyper-V lets you run more than one 32-bit or 64-bit x86 operating system at the same time on the same computer.
 Instead of running directly on the computer’s hardware, the operating systems run inside of a virtual machine (VM).
@@ -11,62 +11,62 @@ Hyper-V in Windows is sometimes referred to as Client Hyper-V.
 <table border="1" style="background-color:FFFFCC;border-collapse:collapse;border:1px solid FFCC00;color:000000;width:100%" cellpadding="15" cellspacing="3">
   <tr valign="top">
     <td>
-      <center caps_internal_Id="403e7b56-6418-4471-882e-4ba4f2200163">![](./media/whats_new.png)</center>
+      <center caps_internal_Id="1bef8d13-f6b7-46bc-b713-a21fc7b83181">![](./media/whats_new.png)</center>
     </td>
     <td valign="top">
       <p>
-        <strong caps_internal_Id="73dd2e05-9390-49fe-8bc9-96edfd137782">What's new in Hyper-V?</strong>
+        <strong caps_internal_Id="c9c59eb0-26a0-4fd8-9128-35cb91f4e639">What's new in Hyper-V?</strong>
       </p>
-      <p caps_internal_Id="110d35fa-1b5d-4ec1-9240-419d81d35f3e">Read [What's New](./about/whats_new.md) to learn about new and changed features for Hyper-V in Windows 10.</p>
+      <p caps_internal_Id="63a327f9-4b16-4321-8973-20ec1bae48b0">Read [What's New](./about/whats_new.md) to learn about new and changed features for Hyper-V in Windows 10.</p>
     </td>
   </tr>
   <tr valign="top">
     <td>
-      <center caps_internal_Id="3750e3ae-9631-4c59-be9c-f80d88da678d">![](./media/MeetsRequirements_65.png)</center>
+      <center caps_internal_Id="3874b3f7-b61f-435b-81ce-d3c8aac4720a">![](./media/MeetsRequirements_65.png)</center>
     </td>
     <td valign="top">
       <p>
-        <strong caps_internal_Id="d5662e91-7639-4ef0-8c07-d4eaf6e01db9">About Hyper-V on Windows</strong>
+        <strong caps_internal_Id="e7670ed4-9a19-4418-a4c1-04e9418dadbc">About Hyper-V on Windows</strong>
       </p>
-      <p caps_internal_Id="b0156f42-fd5d-4153-9409-3f283b802f3e">The following articles provide an introduction to and information about Hyper-V on Windows.</p>
+      <p caps_internal_Id="cf3d9949-f7c4-4e42-a7a6-8b50b7f51186">The following articles provide an introduction to and information about Hyper-V on Windows.</p>
       <ul>
-        <li class="unordered"> Learn more about virtualization with this [introduction to Hyper-V](./about/hyperv_on_windows.md).<br caps_internal_Id="606ba431-85d6-42a8-889d-682315529e47" /><br caps_internal_Id="6e48e77a-bb5f-458d-85bf-55bf13158c3b" /></li>
-        <li class="unordered">[Supported guest operating systems](about\supported_guest_os.md)<br caps_internal_Id="e9ea0563-449b-4a98-8f78-b47528514898" /><br caps_internal_Id="e9d695b6-db21-41a1-a02c-de270ee83476" /></li>
+        <li class="unordered"> Learn more about virtualization with this [introduction to Hyper-V](./about/hyperv_on_windows.md).<br caps_internal_Id="1863e00d-d04c-4be1-8fdc-2bfed9ae01c8" /><br caps_internal_Id="698359b4-9c6f-4dc7-b022-840e768110b3" /></li>
+        <li class="unordered">[Supported guest operating systems](about\supported_guest_os.md)<br caps_internal_Id="ef133c79-cc32-4428-a719-191ee7beb79d" /><br caps_internal_Id="9049baa5-859f-47ff-b1a0-604aabb15329" /></li>
       </ul>
     </td>
   </tr>
   <tr valign="top">
     <td>
-      <center caps_internal_Id="10ed7844-b1f0-4388-a74b-56dd3834e0a3">![](./media/All_ContentTypeIcons_VisualWalkthrough_65.png)</center>
+      <center caps_internal_Id="a822159a-35ff-4b92-a6e8-300277cd70d4">![](./media/All_ContentTypeIcons_VisualWalkthrough_65.png)</center>
     </td>
     <td valign="top">
       <p>
-        <strong caps_internal_Id="24721213-0f26-4fc2-8eea-dd68dc625c6f">Get started with Hyper-V</strong>
+        <strong caps_internal_Id="4d64d585-97fb-4e5e-8b41-ed43948f1869">Get started with Hyper-V</strong>
       </p>
-      <p caps_internal_Id="f32e754f-d9a8-4ce1-abb0-8510bfa0b06c">To try out Hyper-V, follow this [walkthrough](./quick_start/walkthrough.md).</p>
-      <p caps_internal_Id="ecddfe75-73c1-4cf2-b227-4591b2034d4f">It will walk you through enabling Hyper-V, creating a virtual machine, and simple management through Hyper-V Manager and PowerShell.</p>
+      <p caps_internal_Id="99c4d3b4-b85c-4329-b4ed-a62134aa6b11">To try out Hyper-V, follow this [walkthrough](./quick_start/walkthrough.md).</p>
+      <p caps_internal_Id="8fafcf1e-e2d4-42e9-b7a2-9ced01f6c194">It will walk you through enabling Hyper-V, creating a virtual machine, and simple management through Hyper-V Manager and PowerShell.</p>
       <ul>
-        <li class="unordered">[Check system requirements](quick_start\walkthrough_compatibility.md)<br caps_internal_Id="611c1168-7338-46d7-aee5-7a2a9c466825" /><br caps_internal_Id="02ad5085-fc8f-4e8c-8447-b1d8aaa1a0c2" /></li>
-        <li class="unordered">[Install Hyper-V](quick_start\walkthrough_install.md)<br caps_internal_Id="2ebbc5c1-c3cd-44c9-a84c-aca00ba18959" /><br caps_internal_Id="172648b3-4525-4a50-aa1a-fd611f8e1466" /></li>
-        <li class="unordered">[Create a switch](quick_start\walkthrough_virtual_switch.md)<br caps_internal_Id="957e908c-0d85-447d-981d-365f759859ff" /><br caps_internal_Id="c829f0d1-f36b-40e6-a1ee-9ce7ed8511c8" /></li>
-        <li class="unordered">[Create a virtual machine](quick_start\walkthrough_create_vm.md)<br caps_internal_Id="5953ce2a-7f5f-484d-a9e4-11c4b8ba32d9" /><br caps_internal_Id="25bf2c2d-196c-4963-a492-7a9b46c67d11" /></li>
-        <li class="unordered">[Experiment with checkpoints](quick_start\walkthrough_checkpoints.md)<br caps_internal_Id="30c0383a-0f37-41ea-b912-6b7a49d4d6f8" /><br caps_internal_Id="b1e17773-16d9-4796-8838-2fe3f8403bef" /></li>
-        <li class="unordered">[Experiment with PowerShell](quick_start\walkthrough_powershell.md)<br caps_internal_Id="c78683fa-d2de-49e1-96fa-15ccd14509c0" /><br caps_internal_Id="97cfa521-90be-4db1-9f3b-7548da2ef460" /></li>
+        <li class="unordered">[Check system requirements](quick_start\walkthrough_compatibility.md)<br caps_internal_Id="6f3a481d-3bdb-4b99-b208-13505b3fd366" /><br caps_internal_Id="91178938-8d69-4560-a114-6e23d2b5e38e" /></li>
+        <li class="unordered">[Install Hyper-V](quick_start\walkthrough_install.md)<br caps_internal_Id="97624699-9f12-44f6-bca4-4c0683af118d" /><br caps_internal_Id="957ae51f-3205-4833-bbb8-38d1602f04ca" /></li>
+        <li class="unordered">[Create a switch](quick_start\walkthrough_virtual_switch.md)<br caps_internal_Id="d507076c-c3c9-4eda-9fb8-b4e6e81f9c56" /><br caps_internal_Id="5a8f31dd-81f1-4168-be82-cb4590019856" /></li>
+        <li class="unordered">[Create a virtual machine](quick_start\walkthrough_create_vm.md)<br caps_internal_Id="614dcc55-b570-4fb8-8d9d-4d8b4aaa20ac" /><br caps_internal_Id="98e50c10-70c9-4ec4-8de6-61827cd26b12" /></li>
+        <li class="unordered">[Experiment with checkpoints](quick_start\walkthrough_checkpoints.md)<br caps_internal_Id="ef25e6ce-1aef-4064-a299-00f4d3a3dfdc" /><br caps_internal_Id="5a279406-8bdd-4eb4-a1a4-409f7ab7f9b2" /></li>
+        <li class="unordered">[Experiment with PowerShell](quick_start\walkthrough_powershell.md)<br caps_internal_Id="b1590227-5c96-44d3-aa36-c30bae8eeac3" /><br caps_internal_Id="62347719-3294-4aec-8f17-f352fe5d5279" /></li>
       </ul>
     </td>
   </tr>
   <tr valign="top">
     <td>
-      <center caps_internal_Id="0d23c73e-d40e-4093-8f2d-659ceacf44e4">![](./media/Chat_65.png)</center>
+      <center caps_internal_Id="9a436276-cfdd-42e0-b2d4-5ec33d914cdf">![](./media/Chat_65.png)</center>
     </td>
     <td valign="top">
       <p>
-        <strong caps_internal_Id="20625744-eefc-49c8-948e-ff3b9c6aaff0">Connect with Community and Support</strong>
+        <strong caps_internal_Id="cdbd84eb-702c-42f2-8829-1d16dc2f945b">Connect with Community and Support</strong>
       </p>
-      <p caps_internal_Id="91607002-cd4e-4a8e-9673-c83470701314">Additional technical support and community resources</p>
+      <p caps_internal_Id="cdbd6523-ed4e-4ab9-98a1-aed214c21901">Additional technical support and community resources</p>
       <ul>
-        <li class="unordered"> Have questions? Ask them on the [Hyper-V forums](https://social.technet.microsoft.com/Forums/windowsserver/en-US/home?forum=winserverhyperv)<br caps_internal_Id="848a3a75-1cbc-411c-87b6-c3bde4c0916d" /><br caps_internal_Id="b1437e65-cdf0-4b81-aa73-c5aaafb034c2" /></li>
-        <li class="unordered">[Community Resources for Hyper-V and Windows Containers](..\community\community_overview.md)<br caps_internal_Id="9f63c001-811d-4a90-b6c2-050bca220e58" /><br caps_internal_Id="f99adb3c-3621-4305-8bf9-ec064a1552eb" /></li>
+        <li class="unordered"> Have questions? Ask them on the [Hyper-V forums](https://social.technet.microsoft.com/Forums/windowsserver/en-US/home?forum=winserverhyperv)<br caps_internal_Id="a6556d5e-089c-432e-8cec-d88f8aee2ffb" /><br caps_internal_Id="ce9320f9-6783-460f-baea-fc8a661f214b" /></li>
+        <li class="unordered">[Community Resources for Hyper-V and Windows Containers](..\community\community_overview.md)<br caps_internal_Id="c18be528-d2d6-430d-b67e-6b2c46a5c633" /><br caps_internal_Id="c8df9cc1-7053-459c-8156-e3a4b748bc91" /></li>
       </ul>
     </td>
   </tr>
