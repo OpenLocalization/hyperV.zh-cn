@@ -11,9 +11,9 @@
     "c74fd48360389ad3c75aefff07a132132e076463": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "2ad607964e95e5dc4570fd2fc1ce05f592bf08f0": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -25,30 +25,30 @@
     "851345687639b6942357c4f7518a4fe528d952da": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\about\\whats_new.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\about\\whats_new.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "c6a1679a4b448bc3e457cc5ca67bd3862c421ee9": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\develop\\make_mgmt_service.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\develop\\make_mgmt_service.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "b390f31bf6083ab5f92281af26bd4938c9ab30dd": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\develop\\powershell_snippets.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\develop\\powershell_snippets.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "822e6cee5989d29adf7c12b0b37cbdf01a96c88c": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "3d3f98ee3495a340c7fb56e15f900aa719ebc15e": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -60,9 +60,9 @@
     "d5fe61997fe63333a11454f5890626ad201cf2a5": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\standard1.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\standard1.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "53d9bc961c04974afdcd12bb720ad64bfcf34075": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -81,9 +81,9 @@
     "c1c71b98feb102a4e67772bfc2de875ec2af22dd": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\save_standard.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\save_standard.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "4e785972c3be387b6ebd64e8b9fb223cc3dd75fc": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -95,16 +95,16 @@
     "fed34babab3f4e671a89cac091b2e17ef42d2a8a": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\production.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\production.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "d36276f92ae59c03ec9ee6ebf036be2e21221851": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\production_CheckpointName.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\production_CheckpointName.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "380c6e5e0bfe92b92d31d48427f07a973d8fe984": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -158,9 +158,9 @@
     "cf30ca46d006229820dd2e400d50243e43cbe669": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\delete_checkpoint.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\delete_checkpoint.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "197db0f85ff76bdbac3321d595f3b3a93429ac30": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -193,16 +193,16 @@
     "df858fce3585e102d26f467bca2b0755ecf24824": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_create_vm.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "c7cd0b188097b46f0895b2b34d1cc7ecde2c82a0": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_export_import.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_export_import.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "16cfc23957260ceb3b07ef55a8e4b79996d525ca": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -228,9 +228,9 @@
     "ac1b9c7df82cc6513a357b20b4dfb1f662560ba8": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\export_confirm.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\export_confirm.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "1b5101077f3e767271d04f29ca747202ae4586ff": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -242,9 +242,9 @@
     "fdb6dbedc6e3005586a9f283aa1f46b014bf929e": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\programs_and_features.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\programs_and_features.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "152595e982ed925cc5a6f625f1786a5f397ecd08": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -256,23 +256,23 @@
     "8b5e8f8277dd3bb9ae0df0f19c95fd9f1a2f47e3": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\restart.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\restart.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "c4de8b5d9db23b19bec5e07cdb1a7f91e9cfb191": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "9d753332489389765c1ea1cfa1737126a201644c": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\get_help.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\get_help.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "579a5b151617e20cfb4e116a6f365a96dbaa9c4a": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -305,9 +305,9 @@
     "c99ae72d3f7fed23ecb0c4f298e5a7a35afc88d4": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\new_switch.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\new_switch.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "16014b7a0feb0558437d99113972981e6560ef83": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -326,9 +326,9 @@
     "7914414173209fcf0105acf95f81399419f997e8": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\network_warning.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\network_warning.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "64d931f0509211ef361f5e86225a53ab5fdd9131": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -354,9 +354,9 @@
     "80edad7cc988d2ca8346d2f785345ce6b5d36df4": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\save.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\save.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "19e37da524322414c21e941fb1c902b3a361c2db": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -368,16 +368,16 @@
     "b9da284951ca5bea7773ac6e0b4029fcd25c514d": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\reset.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\reset.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "e4d15fec95c845919ba7f9fe8df128d7dbec116d": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\ctrlaltdel.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\ctrlaltdel.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "23eca458ec44c46dea8eca88aa041c9f9e1a8005": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -389,9 +389,9 @@
     "dcc854e9982c81a2ad99872fd40bbd940733ccdb": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\checkpoint.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\media\\checkpoint.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "66caa4c366c1b65937a913bfb39e3af350c2d9f6": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -403,9 +403,9 @@
     "c14a4f56d54b045fd9d8d3ecddbcb97ad7baafec": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\user_guide\\checkpoints.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "55744774ff20c1dd435f1d7ca0eafb3332b201f3": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -424,9 +424,9 @@
     "a74f3687bd3a1fe2b92bf8424df6957c6b223aa4": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\user_guide\\remote_host_management.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "5f21c845594a8663b7458e86c121563d3b199e4d": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -452,23 +452,23 @@
     "b1547cd8ba6a8ff669e679d64b79773d3878beea": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\media\\HyperVManager-ConnectToRemoteHostAltCreds.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\user_guide\\media\\HyperVManager-ConnectToRemoteHostAltCreds.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "d772ee3e60961445f6ad27f6d2e2f14678d990e1": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\troubleshooting.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\user_guide\\troubleshooting.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "c9963491668f14ebc3a62e3d8e0d43d744a1d341": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\user_guide_nav.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\user_guide\\user_guide_nav.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "2630f2629bf19ce887b373fcbd3bc26fe879d061": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -480,9 +480,9 @@
     "8174924b71fb9b19c8f093f237113b3c9b9ff615": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\windows_welcome.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\windows_welcome.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "1cd230752f52bb9786821493df48c8a5a2a2f903": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -494,9 +494,9 @@
     "b62d8af1f08bc8085945c8aa154d46d2215879cb": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\windowscontainers\\about\\media\\containerfund.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\windowscontainers\\about\\media\\containerfund.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "6c0ebd80ac08763eafebe935b08194a526ad59fa": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -508,16 +508,16 @@
     "93ee375f9efb3462c5d1e4ba45248fe9dde58566": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\windowscontainers\\about\\media\\containerEcosystem.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\windowscontainers\\about\\media\\containerEcosystem.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "f176f83a5f5bc76e32b5687866d2ced7d0a91d57": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\windowscontainers\\about\\faq.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\windowscontainers\\about\\faq.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "090e2dccc937df4c7a80f63b447cb733af5020a3": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -529,23 +529,23 @@
     "db9ae0a644cdfe47be730c959c0d637513aa9203": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\windowscontainers\\containers_welcome.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\windowscontainers\\containers_welcome.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "7640a837f02d2e4f4bcc6bc9ca66b5a5c37eef32": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\windowscontainers\\EULA.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\windowscontainers\\EULA.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "d82cfc8ade5b456e690bd35933eb2b939a4ed847": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\azure_setup.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\windowscontainers\\quick_start\\azure_setup.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "1727f8f50a45ba27cbd0854ad59b26ad639f9e6f": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -557,37 +557,37 @@
     "763c92da0f923fce31efd828797c46d750a5464b": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\media\\newazure2.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\windowscontainers\\quick_start\\media\\newazure2.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "f34159504927f72f5ef7ccfc8e34ff53c0bec230": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\media\\newazure3.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\windowscontainers\\quick_start\\media\\newazure3.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "fccb0dc2730588ddf6851ad3189dd6dd4dc06b74": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\media\\newazure6.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\windowscontainers\\quick_start\\media\\newazure6.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "ac6168b0f3d4e8b2044dd10d1dba101e2290f1d8": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\media\\newazure7.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\windowscontainers\\quick_start\\media\\newazure7.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "bca267ee574504e3cb6d2c42f2aa095a3ace3619": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\container_setup.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\windowscontainers\\quick_start\\container_setup.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "439993aa3c0ae15d11beb2046585c1bb19629c87": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -599,16 +599,16 @@
     "8ff71abc14066d1fcaf3324d44c3e6be492a93cc": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\inplace_setup.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\windowscontainers\\quick_start\\inplace_setup.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "c0fc8a8c7da42ab56f16e38c567254338f693653": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\manage_docker.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\windowscontainers\\quick_start\\manage_docker.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "381c1908855b7bfb04cda840a0792a563345b1a8": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -648,16 +648,16 @@
     "a9f175f23fed1475c227ec1af2c524c918024bc4": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\media\\nginx.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\windowscontainers\\quick_start\\media\\nginx.png",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "8c1510a894cbdfdb23c23ecdeeeedb2197e43c63": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\windowscontainers\\quick_start\\quickstart.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\windowscontainers\\quick_start\\quickstart.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     },
     "72f87d2e53fca40a971aaf3a64bed0cc84d3de03": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -676,9 +676,9 @@
     "a9225b180b1df05d803b0ba2f23be237d7176f4d": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
       "SourceFilePath": "virtualization\\windowscontainers\\reference\\ps_docker_comparison.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8e6348411c8ccede1d1ada513a8ca4bf6d493b1e",
+      "TargetFilePath": "virtualization\\windowscontainers\\reference\\ps_docker_comparison.md",
+      "UpdatedDateTime": "2015-09-07T02:09:58.4302199Z"
     }
   }
 }
