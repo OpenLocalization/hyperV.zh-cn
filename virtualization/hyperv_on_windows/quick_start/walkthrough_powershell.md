@@ -86,7 +86,7 @@ Use the `get-vm` command to return a list of virtual machines.
 To create a checkpoint using PowerShell, select the virtual machine using the `get-vm` command and pipe this to the `checkpoint-vm` command. Finally give the checkpoint a name using `-snapshotname`. The complete command will look like the following:
 
  ```powershell
- get-vm -Name <VM Name> | checkpoint-vm -snapshotname <name for snapshot>
+ get-vm -Name &lt;VM Name&gt; | checkpoint-vm -snapshotname &lt;name for snapshot&gt;
 
  ```
 
