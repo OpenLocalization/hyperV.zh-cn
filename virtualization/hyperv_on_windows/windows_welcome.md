@@ -9,7 +9,7 @@ Hyper-V in Windows is sometimes referred to as Client Hyper-V.
 <table border="1" style="background-color:FFFFCC;border-collapse:collapse;border:1px solid FFCC00;color:000000;width:100%" cellpadding="15" cellspacing="3">
   <tr valign="top">
     <td>
-      <center caps_internal_Id="084a2922-b160-4a5a-a076-4bc997d1c2e4">![](./media/whats_new.png)</center>
+      <center caps_internal_Id="084a2922-b160-4a5a-a076-4bc997d1c2e4">media_whats_new.png)</center>
     </td>
     <td valign="top">
       <p>
