@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "ffcb458fce6796815bb6b2c3949ae2f6d17f96e0",
+  "LastProcessedCommit": "2ed168a5c0abce728a312b0214d8a7bba5b4f7a6",
   "Items": {
     "08796bf856b1936c65df41076765d9f33d79e268": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -924,6 +924,20 @@
       "TargetFileCommit": "5a13757c764a8cd25bf2230b775cc6d7abfa574a",
       "TargetFilePath": "virtualization\\hyperv_on_windows\\windows_welcome.md",
       "UpdatedDateTime": "2015-09-10T17:23:24.7168553Z"
+    },
+    "d5ff93f76a16632d5909862b698bee3b388b3e9d": {
+      "SourceFileCommit": "2ed168a5c0abce728a312b0214d8a7bba5b4f7a6",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "8038edc8eac0a017e688401c61e5a78787f26bd6": {
+      "SourceFileCommit": "2ed168a5c0abce728a312b0214d8a7bba5b4f7a6",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\vmsession.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
     }
   }
 }
