@@ -16,8 +16,8 @@ If you're managing older virtual machines, use Virtual Machine Connection (VMCon
 1.  On the Hyper-V host, open Windows PowerShell as Administrator.
 2.  Run the one of the following commands to create a session by using the virtual machine name or GUID:  
     ``` PowerShell
-    Enter-PSSession -VMName <VMName>
-    Enter-PSSession -VMGUID <VMGUID>
+    Enter-PSSession -VMName VMName
+    Enter-PSSession -VMGUID VMGUID
 
 
 ```
