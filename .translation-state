@@ -928,16 +928,16 @@
     "d5ff93f76a16632d5909862b698bee3b388b3e9d": {
       "SourceFileCommit": "2ed168a5c0abce728a312b0214d8a7bba5b4f7a6",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "31deab26821552b31b9c245a6addad5c3e9946ea",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md",
+      "UpdatedDateTime": "2015-09-10T17:40:15.8937716Z"
     },
     "8038edc8eac0a017e688401c61e5a78787f26bd6": {
       "SourceFileCommit": "2ed168a5c0abce728a312b0214d8a7bba5b4f7a6",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\user_guide\\vmsession.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "31deab26821552b31b9c245a6addad5c3e9946ea",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\user_guide\\vmsession.md",
+      "UpdatedDateTime": "2015-09-10T17:40:15.8937716Z"
     }
   }
 }
