@@ -942,9 +942,9 @@
     "2e76c358f2ebea99ccdf6de52b65840540679c34": {
       "SourceFileCommit": "8445b22a0c08365057b88f324e839ea0a4905440",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\windows_welcome.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "48cff55abde6d9573c08a43d4b33d61163a46e3d",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\windows_welcome.md",
+      "UpdatedDateTime": "2015-09-10T18:10:54.7791595Z"
     }
   }
 }
