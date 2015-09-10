@@ -180,8 +180,6 @@ docker run –it --name newcontainer newcontainerimage cmd
 
 Take a look at the c:\ drive of this new container and notice that the ipconfig.txt file is present.
 
-![](media/docker3.png)
-
 Exit the newly created container to return to the container hosts console session.
 
 ``` PowerShell
@@ -368,7 +366,7 @@ After the website has been updated, navigate back to `http://containerhost-ipadd
 
 ##Video Walkthrough
 
-<iframe src="https://channel9.msdn.com/Blogs/containers/Quick-Start-Deploying-and-Managing-Windows-Server-Containers-with-Docker/player" width="800" height="450" allowFullScreen="true" frameBorder="0" scrolling="no" caps_internal_Id="19034281-b476-416d-a86e-24430a2af9fb" />
+<iframe src="https://channel9.msdn.com/Blogs/containers/Quick-Start-Deploying-and-Managing-Windows-Server-Containers-with-Docker/player" width="800" height="450" allowFullScreen="true" frameBorder="0" scrolling="no" caps_internal_Id="9db33e7e-abbe-476c-bc32-f9e3dbfd157b" />
 
 ##Next Steps
 
