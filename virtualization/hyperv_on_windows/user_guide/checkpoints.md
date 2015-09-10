@@ -1,6 +1,3 @@
-ms.ContentId: 8D89E9D8-2501-46A7-9304-2F19F37AFC85
-title: Working with checkpoints
-
 #Using checkpoints to revert virtual machines to a previous state
 
 Checkpoints provide a fast and easy way to revert the virtual machine to a previous state.
@@ -141,6 +138,6 @@ virtual_machine_name (MM/DD/YYY –hh:mm:ss AM\PM)
 Names are limited to 100 characters or less, and the name cannot be blank.
 
 
-and the name cannot be blank. 
+s, and the name cannot be blank. 
 
 

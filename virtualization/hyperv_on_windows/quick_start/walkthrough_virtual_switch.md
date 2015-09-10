@@ -1,6 +1,3 @@
-ms.ContentId: 95FE9554-3968-4EED-B65D-E03F06A7598D
-title: Step 3: Create a virtual switch
-
 #Step 3: Create a virtual switch
 
 A virtual switch allows you to create a network connection for your virtual machine.
@@ -39,4 +36,4 @@ This makes it so both the virtual machines and the host can use the same network
 [Step 4: Create a Windows virtual machine from an .iso file](walkthrough_create_vm.md)
 
 
-n .iso file](walkthrough_create_vm.md)
+m an .iso file](walkthrough_create_vm.md)

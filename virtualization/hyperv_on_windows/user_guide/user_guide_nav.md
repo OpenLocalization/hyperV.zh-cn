@@ -1,38 +1,35 @@
-ms.ContentId: 1C108951-97FF-4BA3-A929-27A4FEF160D2
-title: In this section - User Guide
-
 #In this section
 
 <table border="1" style="background-color:FFFFCC;border-collapse:collapse;border:1px solid FFCC00;color:000000;width:100%" cellpadding="15" cellspacing="3">
   <tr>
-    <td caps_internal_Id="f9a3d73f-5c1b-4a1f-bbc6-8d9e54ddaa30">
+    <td caps_internal_Id="b54ad959-aa0d-4f65-8b0d-28bb308d09c3">
 [Migrate and upgrade virtual machines](migrating_vms.md) </td>
-    <td caps_internal_Id="3f094a0e-edf9-41c6-ac7d-2661f3a519a3">Upgrade virtual machines that were migrated from previous versions of Hyper-V.</td>
+    <td caps_internal_Id="39b7b421-e388-42e8-848a-33ba2934535c">Upgrade virtual machines that were migrated from previous versions of Hyper-V.</td>
   </tr>
   <tr>
-    <td caps_internal_Id="ee41efe1-f1a6-4c77-beb4-c5d1a1b5a6b9">
+    <td caps_internal_Id="f953a31b-28f4-43ee-9cdd-7441a19bcced">
 [Working with checkpoints](checkpoints.md) </td>
-    <td caps_internal_Id="63757671-a1d6-4eff-bd5f-af6ea3a630a8">Create checkpoints and use them to revert virtual machines to a previous state.</td>
+    <td caps_internal_Id="903e5ab9-7410-486f-a118-7c39c1d71d5b">Create checkpoints and use them to revert virtual machines to a previous state.</td>
   </tr>
   <tr>
-    <td caps_internal_Id="2fdef468-714b-4199-8de8-38be95be3441">
+    <td caps_internal_Id="29f4eb70-3494-4717-900b-da9d90288978">
 [Export and Import virtual machines](export_import.md) </td>
-    <td caps_internal_Id="ee81c297-5eac-47d5-a8c4-1c9859605d5e">Duplicate virtual machines or to move them from one host to another. </td>
+    <td caps_internal_Id="20061ca5-449f-4c8d-a49d-39105cc2bda7">Duplicate virtual machines or to move them from one host to another. </td>
   </tr>
   <tr>
-    <td caps_internal_Id="b4f7224b-37d1-412a-9910-cbf0dbd29ad6">
+    <td caps_internal_Id="f85564e1-167e-4365-accd-9f75cd6c10ce">
 [Manage Windows with PowerShell Direct](vmsession.md) </td>
-    <td caps_internal_Id="df91ab54-7fb7-4a49-8fa7-192525c1adba">Use PowerShell Direct to remotely manage a Windows 10 virtual machine. </td>
+    <td caps_internal_Id="ece37bb8-25d1-44b7-9208-39a6f8e9a037">Use PowerShell Direct to remotely manage a Windows 10 virtual machine. </td>
   </tr>
   <tr>
-    <td caps_internal_Id="87ca5f0f-b725-4258-9034-97f6a942f5e5">
+    <td caps_internal_Id="727a4cfd-2eb7-4767-9573-f7ec1a5acc39">
 [Manage Remote Hyper-V Hosts](remote_host_management.md) </td>
-    <td caps_internal_Id="6f487827-842d-49dc-961b-c6f89df63959"> Diagnose and manage local or remote hosts using Hyper-V Manager. </td>
+    <td caps_internal_Id="baf81d49-9396-407a-8c16-feb04f33820a"> Diagnose and manage local or remote hosts using Hyper-V Manager. </td>
   </tr>
   <tr>
-    <td caps_internal_Id="2c75c6d5-2ed1-4eba-a484-61983415f5e3">
+    <td caps_internal_Id="85d4af71-99f7-4399-9c9d-70b7a0260b52">
 [Troubleshooting](troubleshooting.md) </td>
-    <td caps_internal_Id="f135a2de-637e-454b-9165-2e8f14c82b91"> Find solutions to some common issues. </td>
+    <td caps_internal_Id="776ba649-9b80-4db0-a2f9-5e6f94a668f1"> Find solutions to some common issues. </td>
   </tr>
 </table>
 

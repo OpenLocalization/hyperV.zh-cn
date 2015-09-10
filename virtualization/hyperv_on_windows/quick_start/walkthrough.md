@@ -1,6 +1,3 @@
-ms.ContentId: 248565F7-5EE6-46C6-B29E-8F1D44658563
-title: Walktrough Overview
-
 #Walkthrough Hyper-V on Windows 10
 
 These topics will help your get acquainted with Hyper-V on Windows 10.

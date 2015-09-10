@@ -1,6 +1,3 @@
-ms.ContentId: e586a11a-870f-403b-8af8-4c2931589d26
-title: Manage Windows with PowerShell Direct 
-
 #Manage Windows with PowerShell Direct
 
 You can use PowerShell Direct to remotely manage a Windows 10 or Windows Server Technical Preview virtual machine from a Windows 10 or Windows Server Technical Preview Hyper-V host.

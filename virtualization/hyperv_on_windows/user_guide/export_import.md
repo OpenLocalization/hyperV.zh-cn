@@ -1,6 +1,3 @@
-ms.ContentId: 040B1B51-0F25-4295-B317-8CC4DE0A1AFF
-title: Export and import virtual machines
-
 
 #Export and Import virtual machines
 

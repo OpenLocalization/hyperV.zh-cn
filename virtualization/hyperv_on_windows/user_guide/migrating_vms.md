@@ -1,6 +1,3 @@
-ms.ContentId: 34D5925A-D724-4552-9403-C2703A973234 
-title: Migrating and upgrading virtual machines
-
 #Migrate and upgrade virtual machines
 
 If you move virtual machines to your Windows 10 host that were originally created with Hyper-V in Windows 8.1 or earlier, you won't be able to use the new virtual machine features until you manually update the virtual machine configuration version.
@@ -109,7 +106,7 @@ The following table lists the default file locations for new or upgraded virtual
 | **Automatic virtual hard disk files (.avhdx)**| C:\Users\Public\Documents\Hyper-V\Virtual Hard Disks| |
 
 
-Users\Public\Documents\Hyper-V\Virtual Hard Disks ||
+C:\Users\Public\Documents\Hyper-V\Virtual Hard Disks ||
 
 
 

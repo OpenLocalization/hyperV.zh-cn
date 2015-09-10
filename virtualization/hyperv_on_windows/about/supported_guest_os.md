@@ -1,6 +1,3 @@
-ms.ContentId: 7561B149-A147-4F71-9840-6AE149B9DED5
-title: Supported Windows Guest Operating Systems
-
 #Supported Windows guests
 
 This article lists the Windows operating systems supported as guests in Hyper-V on Windows, as well provides information about integration services.
@@ -70,6 +67,6 @@ There are caveats around specific kernel versions.
 For more information, including support information on past versions of Hyper-V, see [Linux and FreeBSD Virtual Machines on Hyper-V](https://technet.microsoft.com/library/dn531030.aspx).
 
 
-tps://technet.microsoft.com/library/dn848318.aspx) | |
+https://technet.microsoft.com/library/dn848318.aspx) | |
 
 There are caveats around specific kernel versions. For more information, including support information on past versions of Hyper-V, see [Linux and FreeBSD Virtual Machines on Hyper-V](https://technet.microsoft.com/library/dn531030.aspx).
