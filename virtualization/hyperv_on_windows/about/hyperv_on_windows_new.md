@@ -75,7 +75,7 @@ Also, applications relying on sub 10ms timers, like latency-sensitive high-preci
 The root OS is also running on top of the Hyper-V virtualization layer, but it is special in that it has direct access to all the hardware.
 This is why applications with special hardware requirements continue to work unhindered in the root OS but latency-sensitive, high-precision apps could still have issues running in the root OS.
 
-As a reminder, you'll need to have a valid license for any operating systems you use in the VMs.
+As a reminder, you'll need to have a valid license for any operating systems you use in the VMs test.
 
 ##Next step:
 
