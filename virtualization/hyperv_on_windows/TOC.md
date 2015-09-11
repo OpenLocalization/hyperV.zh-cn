@@ -1,12 +1,12 @@
 #HyperV
 
-##关于
+##About
 
 ###[Hyper-v on Windows](about/hyperv_on_windows_new.md)
 
-###[Supported Guest OS](about/supported_guest_os.md)
+###[Supported Guest OS](about/supported_guest_os_new.md)
 
-###[Whats New](about/whats_new.md)
+###[新的内容](whats_new.md)
 
 ##[Build](about/build.md)
 
