@@ -2,7 +2,7 @@
 
 ##关于
 
-###[Hyper-v on Windows](about/hyperv_on_windows.md)
+###[Hyper-v on Windows](about/hyperv_on_windows_new.md)
 
 ###[Supported Guest OS](about/supported_guest_os.md)
 
