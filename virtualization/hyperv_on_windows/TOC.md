@@ -4,9 +4,9 @@
 
 ###[Hyper-v on Windows](about/hyperv_on_windows_new.md)
 
-###[Supported Guest OS](about/supported_guest_os_new.md)
+###[Supported Guest OS](about/supported_guest_os.md)
 
-###[新的内容](whats_new.md)
+###[什么是新](about/whats_new.md)
 
 ##[Build](about/build.md)
 
