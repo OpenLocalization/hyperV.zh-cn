@@ -1,16 +1,15 @@
-#什么是新超 v 上 Windows 10
+#What's New for Hyper-V on Windows 10
 
-本主题说明在 Windows 10 ® HYPER-V 中的新的和更改的功能。
-这是用于测试。
+This topic explains the new and changed functionality in Hyper-V on Windows 10®.
 
-##Windows PowerShell 直接
+##Windows PowerShell Direct
 
-还有现在简便可靠的方法从主机操作系统运行在虚拟机中的 Windows PowerShell 命令。
-没有网络或防火墙的要求，也没有特殊的配置。
-无论您的远程管理配置，它正常工作。
-若要使用它，必须在主机和虚拟机来宾操作系统上运行 Windows 10 或 Windows 服务器技术预览版。
+There is a now an easy and reliable way to run Windows PowerShell commands inside a virtual machine from the host operating system.
+There are no network or firewall requirements or special configuration.
+It works regardless of your remote management configuration.
+To use it, you must run Windows 10 or Windows Server Technical Preview on the host and the virtual machine guest operating system.
 
-若要创建 PowerShell 直接会话，请使用以下命令之一:
+To create a PowerShell Direct session, use one of the following commands:
 
 ``` PowerShell
 Enter-PSSession -VMName VMName
@@ -90,9 +89,9 @@ Get-VM * | Format-Table Name, Version
 ```
 
 
-####如何升级配置版本的虚拟机?
+####How do I upgrade the configuration version of a virtual machine?
 
-从提升 Windows PowerShell 命令提示符下，运行以下命令之一:
+From an elevated Windows PowerShell command prompt, run one of the following commands:
 
 ``` PowerShell
 Update-VmConfigurationVersion <vmname>
@@ -107,75 +106,60 @@ Update-VmConfigurationVersion <vmobject>
 
 ```
 
-** 重要: **
+**Important: **
 
-*   您的虚拟机配置版本升级后，你不能将虚拟机移动到运行 Windows 8.1 的主机。
-*   您不能降级版本 6 到版本 5 的虚拟机配置版本。
-*   您必须先关闭虚拟机升级虚拟机的配置。
-*   升级之后，虚拟机使用新的配置文件格式。
-    更多的信息，请参阅新虚拟机配置文件格式。
+*   After you upgrade the virtual machine configuration version, you can't move the virtual machine to a host that runs Windows 8.1.
+*   You can't downgrade the virtual machine configuration version from version 6 to version 5.
+*   You must turn off the virtual machine to upgrade the virtual machine configuration.
+*   After the upgrade, the virtual machine uses the new configuration file format.
+    For more information, see New virtual machine configuration file format.
 
-##新的虚拟机配置文件格式
+##New virtual machine configuration file format
 
-虚拟机现在有新的配置文件格式，旨在提高阅读和写作的虚拟机配置数据的效率。
-它同时也被为了减少潜在的数据损坏，如果存储故障。
-新的配置文件使用。VMCX 扩展为虚拟机配置数据和。运行时状态数据的 VMRS 扩展名。
+Virtual machines now have a new configuration file format which is designed to increase the efficiency of reading and writing virtual machine configuration data.
+It's also designed to reduce the potential for data corruption if there's a storage failure.
+The new configuration files use the .VMCX extension for virtual machine configuration data and the .VMRS extension for runtime state data.
 
-> **重要:**了。VMCX 文件是二进制的格式。
-> 直接编辑。VMCX 或。VMRS 文件不受支持。
+> **Important:** The .VMCX file is a binary format.
+> Directly editing the .VMCX or .VMRS file isn't supported.
 > 
 
-##通过 Windows Update 提供一体化服务
+##Integration Services delivered through Windows Update
 
-集成服务为 Windows 客人的更新现在分布通过 Windows 更新。
+Updates to integration services for Windows guests are now distributed through Windows Update.
 
-集成组件 (也称为集成服务) 是合成的驱动程序，允许虚拟机与主机操作系统进行通信的一组。
-他们控制从时间同步到客人文件复制服务。
-我们已经谈过客户集成组件的安装和更新在过去一年来发现他们在升级过程中都是一个巨大的痛点。
+Integration components (also called integration services) are the set of synthetic drivers which allow a virtual machine to communicate with the host operating system.
+They control services ranging from time sync to guest file copy.
+We've been talking to customers about integration component installation and update over the past year to discover that they are a huge pain point during the upgrade process.
 
-从历史上看，所有新版本的 HYPER-V 附带新的集成组件。
-升级 HYPER-V 主机升级集成组件在虚拟机以及必需。
-新的集成组件都包含在 HYPER-V 主机，然后他们在使用 vmguest.iso 的虚拟机中安装了。
-这个过程需要重新启动虚拟机，不能与其他 Windows 更新批处理。
-因为 HYPER-V 管理员必须提供 vmguest.iso 和虚拟机管理员不得不安装它们，集成组件升级所需的 HYPER-V 管理员具有管理员凭据在虚拟机 — — 这并非总是如此。
+Historically, all new versions of Hyper-V came with new integration components.
+Upgrading the Hyper-V host required upgrading the integration components in the virtual machines as well.
+The new integration components were included with the Hyper-V host then they were installed in the virtual machines using vmguest.iso.
+This process required restarting the virtual machine and couldn't be batched with other Windows updates.
+Since the Hyper-V administrator had to offer vmguest.iso and the virtual machine administrator had to install them, integration component upgrade required the Hyper-V administrator have administrator credentials in the virtual machines -- which isn't always the case.
 
-在 Windows 10 和前进，所有集成组件将交付给虚拟加工通过 Windows 更新和其他重要更新。
+In Windows 10 and going forward, all integration components will be delivered to virtual machined through Windows Update along with other important updates.
 
-有可用更新今天为运行的虚拟机:
+There are updates available today for virtual machines running:
 
-*   Windows 服务器 2012
-*   Windows 服务器 2008 R2
+*   Windows Server 2012
+*   Windows Server 2008 R2
 *   Windows 8
 *   Windows 7
 
-虚拟机必须连接到 Windows Update 或 WSUS 服务器。
-在将来，集成组件更新将有一个类别 ID，对于此版本，他们被列为 KBs。
-
-阅读更多有关我们如何确定适用性，看看这[博客文章](http://blogs.technet.com/b/virtualization/archive/2014/11/24/integration-components-how-we-determine-windows-update-applicability.aspx).
-
-请参见[这个博客](http://blogs.msdn.com/b/virtual_pc_guy/archive/2014/11/12/updating-integration-components-over-windows-update.aspx)有关详细的安装集成服务演练的职位。
-
-> **重要:**ISO 图像文件 vmguest.iso 不再需要更新集成组件。
-> 它不包括在 HYPER-V 上 Windows 10。
-> 
-
-##下一步
-
-[在 Windows 上 10 走过超 V](..\quick_start\walkthrough.md)
-
-
-s KBs.
+The virtual machine must be connected to Windows Update or a WSUS server.
+In the future, integration component updates will have a category ID, for this release, they are listed as KBs.
 
 To read more about how we determine applicability, see this [blog post](http://blogs.technet.com/b/virtualization/archive/2014/11/24/integration-components-how-we-determine-windows-update-applicability.aspx).
 
-
 See [this blog](http://blogs.msdn.com/b/virtual_pc_guy/archive/2014/11/12/updating-integration-components-over-windows-update.aspx) post for a detailed walkthrough of installing integration services.
 
+> **Important:** The ISO image file vmguest.iso is no longer needed for updating integration components.
+> It's not included with Hyper-V on Windows 10.
+> 
 
-> **Important:** The ISO image file vmguest.iso is no longer needed for updating integration components. It's not included with Hyper-V on Windows 10.
+##Next Step
+
+[Walk through Hyper-V on Windows 10](..\quick_start\walkthrough.md)
 
 
-
-
-## Next Step
-[Walk through Hyper-V on Windows 10](..\quick_start\walkthrough.md) 
