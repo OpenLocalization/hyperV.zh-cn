@@ -1,6 +1,6 @@
 #对 Windows 10 超 V
 
-![7.使用](media/7.png)
+![图像](media/1.png)
 
 超 V 允许您运行多个操作系统同时在同一台计算机上的 32 位或 64 位 x 86。
 而不是直接在计算机的硬件上运行，操作系统运行在一个虚拟机 (VM)。
@@ -21,6 +21,6 @@ Hyper-V in Windows is sometimes referred to as Client Hyper-V.
 对 Windows 10 超 V
 
 
-t.microsoft.com/library/hh923062.aspx)
+et.microsoft.com/library/hh923062.aspx)
 
 Hyper-V on Windows 10
