@@ -12,9 +12,9 @@
 
 ##发展
 
-###[使管理服务](develop/make_mgmt_service.md)
+###[使管理服务](develop/make_mgmt_service_new.md)
 
-###[Powershell 片段](develop/powershell_snippets.md)
+###[Powershell 片段](powershell_snippets.md)
 
 ##快速启动
 
