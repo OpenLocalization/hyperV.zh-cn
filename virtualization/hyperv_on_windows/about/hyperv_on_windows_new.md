@@ -84,7 +84,7 @@ HYPER-V 需要有第二个级别地址翻译 (板) 的 64 位系统。 金属板
 退房[什么是新](whats_new.md)在超-Windows 10 V。
 
 
-he root OS is also running on top of the Hyper-V virtualization layer, but it is special in that it has direct access to all the hardware. This is why applications with special hardware requirements continue to work unhindered in the root OS but latency-sensitive, high-precision apps could still have issues running in the root OS.
+e root OS is also running on top of the Hyper-V virtualization layer, but it is special in that it has direct access to all the hardware. This is why applications with special hardware requirements continue to work unhindered in the root OS but latency-sensitive, high-precision apps could still have issues running in the root OS.
 
 As a reminder, you'll need to have a valid license for any operating systems you use in the VMs test.
 
