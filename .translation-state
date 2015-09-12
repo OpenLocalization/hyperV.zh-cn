@@ -1026,23 +1026,23 @@
     "1401bcd84e0dec58f1f219a2430dd8c5a7592db0": {
       "SourceFileCommit": "70fdc9ac8065a89238613403c6a902a28f4e94b4",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\develop\\make_mgmt_servic_new.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "ecf2571c92d54c5a50acb96c8228a030c7a878a5",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\develop\\make_mgmt_servic_new.md",
+      "UpdatedDateTime": "2015-09-12T09:59:19.961915Z"
     },
     "96b5d85a97b47f6a399fc7a5f00cc37eac26379c": {
       "SourceFileCommit": "70fdc9ac8065a89238613403c6a902a28f4e94b4",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\media\\2.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "ecf2571c92d54c5a50acb96c8228a030c7a878a5",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\media\\2.png",
+      "UpdatedDateTime": "2015-09-12T09:59:19.961915Z"
     },
     "8f94c03654b7fe1dfa226bf4cd14dd6925307246": {
       "SourceFileCommit": "70fdc9ac8065a89238613403c6a902a28f4e94b4",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\TOC.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "ecf2571c92d54c5a50acb96c8228a030c7a878a5",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\TOC.md",
+      "UpdatedDateTime": "2015-09-12T09:59:19.961915Z"
     }
   }
 }
