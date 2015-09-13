@@ -12,7 +12,7 @@
 虚拟化使任何人都可以轻松地维护组成的许多操作系统、 软件配置和硬件配置的多个测试环境。
 HYPER-V 提供虚拟化 Windows 以及一个简单的机制而不会导致额外的硬件成本这些环境之间进行快速切换。
 
-超 V 可以使用在很多方面，例如:
+超 V 可以使用在许多方面，例如:
 
 *   由多个虚拟机组成的测试环境可以创建单一的台式计算机或便携式计算机上。
     完成测试后，这些虚拟机可以导出，然后导入到任何其他 HYPER-V 系统。
@@ -84,7 +84,7 @@ HYPER-V 需要有第二个级别地址翻译 (板) 的 64 位系统。 金属板
 退房[什么是新](whats_new.md)在超-Windows 10 V。
 
 
-M. The root OS is also running on top of the Hyper-V virtualization layer, but it is special in that it has direct access to all the hardware. This is why applications with special hardware requirements continue to work unhindered in the root OS but latency-sensitive, high-precision apps could still have issues running in the root OS.
+he root OS is also running on top of the Hyper-V virtualization layer, but it is special in that it has direct access to all the hardware. This is why applications with special hardware requirements continue to work unhindered in the root OS but latency-sensitive, high-precision apps could still have issues running in the root OS.
 
 As a reminder, you'll need to have a valid license for any operating systems you use in the VMs test.
 
