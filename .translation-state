@@ -1299,9 +1299,9 @@
     "924afcaa851d83b7e47ba55155a8f1415b745719": {
       "SourceFileCommit": "0dbf47c1940570e11d83db325a3b6d03d893b98c",
       "SourceFilePath": "virtualization\\hyperv_on_windows\\media\\2.png",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "TargetFileCommit": "8cf8bf3267e27319edd2f92b3edbc34b5248fe67",
+      "TargetFilePath": "virtualization\\hyperv_on_windows\\media\\2.png",
+      "UpdatedDateTime": "2015-09-14T13:11:29.1607067Z"
     }
   }
 }
