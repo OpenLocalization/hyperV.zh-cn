@@ -1,4 +1,4 @@
-#对 Windows 10 超 V
+#关于 Windows 10 测试超第五
 
 ![7.使用](media/7.png)
 
@@ -21,6 +21,6 @@ Hyper-V in Windows is sometimes referred to as Client Hyper-V.
 对 Windows 10 超 V
 
 
-t.microsoft.com/library/hh923062.aspx)
+oft.com/library/hh923062.aspx)
 
 Hyper-V on Windows 10
