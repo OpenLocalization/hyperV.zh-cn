@@ -3,6 +3,10 @@
 无论你是一个软件开发人员、 it 专业人员或一个科技爱好者，你们很多人需要偶尔在许多不同的机器上运行多个操作系统。
 不是所有人都有一套完整的实验室，以容纳所有这些机器，访问，因此虚拟化可以节省了空间和时间。
 
+这里是一个图:
+
+![图像](media/ProductionCheckpoints_new.png)
+
 ##使用虚拟化
 
 虚拟化使任何人都可以轻松地维护组成的许多操作系统、 软件配置和硬件配置的多个测试环境。
@@ -80,7 +84,7 @@ HYPER-V 需要有第二个级别地址翻译 (板) 的 64 位系统。 金属板
 退房[什么是新](whats_new.md)在超-Windows 10 V。
 
 
- VM. The root OS is also running on top of the Hyper-V virtualization layer, but it is special in that it has direct access to all the hardware. This is why applications with special hardware requirements continue to work unhindered in the root OS but latency-sensitive, high-precision apps could still have issues running in the root OS.
+e root OS is also running on top of the Hyper-V virtualization layer, but it is special in that it has direct access to all the hardware. This is why applications with special hardware requirements continue to work unhindered in the root OS but latency-sensitive, high-precision apps could still have issues running in the root OS.
 
 As a reminder, you'll need to have a valid license for any operating systems you use in the VMs test.
 
