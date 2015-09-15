@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "61619646de81e8e745e4ed048d63a4eb69c238d7",
+  "LastProcessedCommit": "bc0614bd6fb502ce8440a0c360f52593da3cc8c1",
   "Items": {
     "08796bf856b1936c65df41076765d9f33d79e268": {
       "SourceFileCommit": "fdfa8efee03f92d2e23fcd07a362b50a2cdbe054",
@@ -1414,6 +1414,13 @@
       "TargetFileCommit": "c58d2e04f9601a0b0567795cadec63639d21c195",
       "TargetFilePath": "virtualization\\hyperv_on_windows\\windows_welcomeaaa - Copy.md",
       "UpdatedDateTime": "2015-09-15T06:24:15.6568421Z"
+    },
+    "cb8ab4d1d2a32a7f914d5c394ec119c481c73878": {
+      "SourceFileCommit": "bc0614bd6fb502ce8440a0c360f52593da3cc8c1",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\about\\hyperv_on_windows_new.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
     }
   }
 }
