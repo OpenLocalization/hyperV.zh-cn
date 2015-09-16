@@ -39,7 +39,7 @@ There is also a lot to see on the [Docker community](https://www.docker.com/comm
 
 ##Articles
 
-*   [Virtual Machines and Containers in Azure](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-vms-containers/)
+*   [Virtual Machines and Containers inn Azure](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-vms-containers/)
 *   [New Windows Server containers and Azure support for Docker](http://azure.microsoft.com/blog/2014/10/15/new-windows-server-containers-and-azure-support-for-docker/)
 *   [Microsoft Announces New Container Technologies for the Next Generation Cloud](http://blogs.technet.com/b/server-cloud/archive/2015/04/08/microsoft-announces-new-container-technologies-for-the-next-generation-cloud.aspx)
 
